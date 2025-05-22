@@ -2,6 +2,8 @@
 
 A beautiful and responsive weather application that provides current weather conditions and a 5-day forecast for any city in the world.
 
+!()[https://raw.githubusercontent.com/yateendra/Weather-Forecast-OpenWeatherMap/refs/heads/main/Screenshot%202025-05-22%20113022.jpg]
+
 ## Features
 
 - Display current weather conditions (temperature, humidity, wind speed, etc.)
